@@ -1,4 +1,4 @@
-FROM gcc
+FROM gcc:8
 
 MAINTAINER sentiboard
 
